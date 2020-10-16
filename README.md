@@ -14,3 +14,6 @@
 - **Rosetta compatible**
 
 
+## Architecture Design
+
+[Sequence diagram](/archdesign.png)
