@@ -16,4 +16,4 @@
 
 ## Architecture Design
 
-[Sequence diagram](https://github.com/Electronic-Signatures-Industries/xdv-invoice-protocol/blob/main/archdesign.png)
+![Sequence diagram](https://github.com/Electronic-Signatures-Industries/xdv-invoice-protocol/blob/main/archdesign.png)
