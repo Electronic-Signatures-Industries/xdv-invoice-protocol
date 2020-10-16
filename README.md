@@ -1,6 +1,6 @@
 # xdv-invoice-protocol
 
-XDV Invoice protocol is a protocol that uses IPFS and Ethereum to store DGI Electronic Invoicing or any other type of invoices, with the following features:
+**XDV Invoice protocol** is a protocol that uses IPFS and Ethereum to store DGI Electronic Invoicing or any other type of invoices, with the following features:
 
 
 - **IPLD storage and query**: Allows for document patching and query with IPFS DAG
