@@ -2,13 +2,14 @@
 
 **XDV para PAC** o **Red XDV PAC/XDV PAC Network** es una solucion decentralizada de consorcio que utiliza IPFS, IPLD y Carteras Criptograficas y  una combinacion de agentes y sistemas de sincronizacion para administrar confeccion, generacion, firmado y envios de mensajes con contenido de facturas electronicas.
 
-Features incluyeen:
+Features incluyen:
 
 
 - **IPLD storage and query**: Allows for document patching and query with IPLD
 - **DID  Ethereum compatible**: Uses did-ethr for identity
 - **API or JSON-RPC**: Use web3 or API to integrate to protocol
 - **Built-in NFT Tokenization**
+- **XDV FE npm module**
 - **XmlDsig Validation API**
 - **XDV integration**
 - **Proxy Re Encryption or DH Key Exchange (Noise Protocol)**
