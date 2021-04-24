@@ -11,7 +11,7 @@ Features incluyeen:
 - **Built-in NFT Tokenization**
 - **XmlDsig Validation API**
 - **XDV integration**
-- **Proxy Re Encryption or DF Key Exchange (Noise Protocol)**
+- **Proxy Re Encryption or DH Key Exchange (Noise Protocol)**
 
 
 ## Architecture Design V1
